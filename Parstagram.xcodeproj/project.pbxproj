@@ -20,6 +20,7 @@
 		E617076727792257007D80E8 /* ParstagramUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E617076627792257007D80E8 /* ParstagramUITestsLaunchTests.swift */; };
 		E617077427793D51007D80E8 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E617077327793D51007D80E8 /* LoginViewController.swift */; };
 		E617077827793DA9007D80E8 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E617077727793DA9007D80E8 /* FeedViewController.swift */; };
+		E6385515277AAE1800F1AED8 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6385514277AAE1800F1AED8 /* CameraViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		E617076627792257007D80E8 /* ParstagramUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParstagramUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		E617077327793D51007D80E8 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		E617077727793DA9007D80E8 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+		E6385514277AAE1800F1AED8 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 				E617075127792257007D80E8 /* Info.plist */,
 				E617077327793D51007D80E8 /* LoginViewController.swift */,
 				E617077727793DA9007D80E8 /* FeedViewController.swift */,
+				E6385514277AAE1800F1AED8 /* CameraViewController.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -410,6 +413,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E617077427793D51007D80E8 /* LoginViewController.swift in Sources */,
+				E6385515277AAE1800F1AED8 /* CameraViewController.swift in Sources */,
 				E617074427792255007D80E8 /* AppDelegate.swift in Sources */,
 				E617077827793DA9007D80E8 /* FeedViewController.swift in Sources */,
 				E617074627792255007D80E8 /* SceneDelegate.swift in Sources */,
