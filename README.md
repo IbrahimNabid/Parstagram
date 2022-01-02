@@ -22,6 +22,8 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+
 ![Parstagramgifrecording2](https://user-images.githubusercontent.com/79735610/147867094-06547ed3-430c-4a0a-b82c-f376edfba1e9.gif)
 
 
