@@ -23,6 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![Parstagramgifrecording2](https://user-images.githubusercontent.com/79735610/147866541-b2139612-01ab-43c1-9ef1-6162ccf03c0a.gif)
 
-![Parstagramgifrecording2](https://user-images.githubusercontent.com/79735610/147866495-b4035e13-e4d9-4cd4-a913-2e03971b0ede.gif)
+
 
